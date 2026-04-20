@@ -1,39 +1,85 @@
-# Hi, I'm Anmol 👋
+# 👋 Hi, I'm Anmol Chauhan
 
-💻 Web Developer  
-🚀 Passionate about building modern web applications  
-📍 India  
+🚀 Backend Developer | Java | Spring Boot | Microservices Enthusiast
+
+---
+
+## 🧑‍💻 About Me
+
+* 💼 Currently working on **Spring Boot Microservices Architecture**
+* 🔐 Strong focus on **Security (JWT, Spring Security)**
+* ⚙️ Experience with **API Gateway, Redis, Authentication Systems**
+* 🧠 Interested in **Machine Learning & System Design**
+* 📌 Building scalable and production-grade applications
 
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: React, JavaScript, HTML, CSS, Bootstrap
-- Backend: (add if you know any)
-- Tools: Git, GitHub, VS Code
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring Security
+* Hibernate / JPA
+
+**Database**
+
+* MongoDB
+* MySQL
+
+**DevOps & Tools**
+
+* Docker (Learning)
+* Git & GitHub
+* Postman
+* Redis
 
 ---
 
-## 📌 Projects
-- 🔗 Postman Clone (JavaScript + Bootstrap)
-- 🎵 Spotify Clone (HTML/CSS)
-- 🎬 Netflix Clone (React)
-- 🌦️ Weather App (React + API)
-- 🍔 Food Ordering App (Angular)
+## 📂 Featured Projects
+
+### 🔐 Auth Service (Microservices)
+
+* JWT-based authentication system
+* Token blacklisting using Redis
+* Secure API endpoints with Spring Security
+
+### 🛒 E-commerce Backend (In Progress)
+
+* Microservices architecture
+* API Gateway implementation
+* Service-to-service communication
+
+### 📝 Journal App
+
+* REST APIs using Spring Boot
+* MongoDB integration
+* Secure authentication system
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=anmolclust&show_icons=true&theme=radical)
+## 📈 Currently Learning
+
+* Microservices Patterns
+* Distributed Systems
+* Docker & CI/CD
+* System Design (Scalability)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React
-- Backend Development
-- System Design
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: (Add your email)
+* 🧑‍💻 GitHub: https://github.com/your-username
 
 ---
 
-## 🤝 Connect with Me
-- LinkedIn: (add link)
-- Portfolio: (add if you have)
+## ⚡ Fun Fact
+
+> I enjoy debugging more than writing code 😄
+
+---
+
+⭐️ From [Anmol Chauhan](https://github.com/your-username)

@@ -69,10 +69,7 @@
 ---
 
 ## 📫 Connect With Me
-
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
-* 🧑‍💻 GitHub: https://github.com/your-username
+* 🧑‍💻 GitHub: https://github.com/anmoldust
 
 ---
 

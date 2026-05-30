@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00e5ff&height=220&section=header&text=ANMOL%20SINGH%20CHAUHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Microservices%20Engineer%20%7C%20AI%20Engineer&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00e5ff&height=220&section=header&text=ANMOL%20SINGH%20CHAUHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULLSTACK%20Developer%20%7C%20Microservices%20Engineer%20%7C%20AI%20Engineer&descAlignY=55" />
 
 </div>
 

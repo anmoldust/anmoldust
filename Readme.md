@@ -1,113 +1,132 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Anmol Singh Chauhan
+# <div align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANMOL+SINGH+CHAUHAN;BACKEND+ENGINEER+%7C+MICROSERVICES+ARCHITECT;AI+ENGINEER+%7C+DISTRIBUTED+SYSTEMS;BUILDING+INTELLIGENT+SYSTEMS+FOR+THE+FUTURE" />
 
-### 🚀 Backend Engineer • Microservices Architect • AI Engineer
+<br>
 
-*"Engineering distributed systems today. Building intelligent systems for tomorrow."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00e5ff&height=220&section=header&text=ANMOL%20SINGH%20CHAUHAN&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Microservices%20Engineer%20%7C%20AI%20Engineer&descAlignY=55" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+# 🌌 Mission Control
 
-```text
-╔══════════════════════════════════════════════╗
-║ STATUS : BUILDING THE FUTURE                ║
-║ ROLE   : Software Engineer                  ║
-║ FOCUS  : Backend + AI Systems               ║
-║ STACK  : Java | Spring | Kafka | LLMs       ║
-║ MODE   : Learning. Building. Scaling.       ║
-╚══════════════════════════════════════════════╝
+```yaml
+name: Anmol Singh Chauhan
+role: Backend Engineer
+company: Accenture
+location: India
+specialization:
+  - Microservices Architecture
+  - Distributed Systems
+  - Event Driven Systems
+  - AI Engineering
+  - LLM Applications
+  - System Design
+
+current_status: Building The Future 🚀
 ```
-
-I am a software engineer passionate about designing scalable backend systems, distributed architectures, and AI-powered applications.
-
-My work revolves around:
-
-⚡ High-performance backend development
-
-🛰️ Distributed Microservices
-
-🤖 AI & Long-Term Memory Systems
-
-🔗 Event-Driven Architectures
-
-📈 System Design & Performance Optimization
-
-🏗️ Production-Grade Engineering
 
 ---
 
-# 🛠️ Technology Arsenal
+## 🚀 About Me
+
+I am a software engineer focused on designing scalable backend systems, distributed architectures, and AI-powered applications.
+
+My engineering interests include:
+
+⚡ High Performance Backend Systems
+
+🛰️ Distributed Microservices
+
+🤖 AI Applications & Long-Term Memory
+
+📡 Event-Driven Architecture
+
+🔐 Reliability Engineering
+
+🏗️ System Design & Scalability
+
+📈 Performance Optimization
+
+---
+
+# ⚙️ Technology Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+</p>
 
-### Backend
+### Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ### Distributed Systems
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge\&logo=apachekafka)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event_Driven-00E5FF?style=for-the-badge)
 ![Resilience4j](https://img.shields.io/badge/Resilience4j-4CAF50?style=for-the-badge)
 
-### Databases
+### Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+</p>
 
 ### AI Engineering
 
 ```text
 LLM Integration
+Long-Term Memory Systems
+Semantic Search
 Context Management
-Semantic Retrieval
-Long-Term Memory
 AI Agents
-Vector Search
 Prompt Engineering
+Vector Storage
+RAG Systems
 ```
 
 ---
 
-# 🚀 Professional Experience
+# 🏢 Professional Experience
 
 ## Accenture | Application Development Analyst
 
-📍 Gurugram | Nov 2023 - Present
+📅 Nov 2023 – Present
 
-### Mission Log
+### Key Responsibilities
 
-✔ Building enterprise applications using Spring Boot & Microservices
+✔ Building scalable enterprise applications using Spring Boot
 
-✔ Designing scalable REST APIs using OpenAPI
+✔ Designing RESTful APIs with OpenAPI
 
-✔ Engineering Kafka-based Event-Driven Systems
+✔ Developing Kafka-based event-driven systems
 
-✔ Implementing Resilience4j Circuit Breakers
+✔ Implementing Circuit Breakers using Resilience4j
 
-✔ Building reliable distributed workflows using Outbox & Inbox Patterns
+✔ Building Outbox & Inbox patterns for reliability
 
 ✔ Conducting code reviews and mentoring developers
 
-### Impact
+### Engineering Impact
 
-📈 Improved application performance by ~20%
+🚀 Improved application performance by ~20%
 
-📘 Standardized API documentation across services
+🚀 Standardized API documentation
 
-🛡️ Reduced failure propagation through circuit breakers
+🚀 Reduced cascading failures in microservices
 
-⚙️ Enhanced debugging through centralized exception handling
+🚀 Enhanced debugging through centralized exception handling
 
 ---
 
@@ -117,23 +136,25 @@ Prompt Engineering
 
 ### Tech Stack
 
-Java • Spring Boot • LLM APIs • Vector Storage • REST APIs
+```text
+Java | Spring Boot | LLM APIs | Vector Storage | REST APIs
+```
 
 ### Overview
 
-An AI-powered memory system that enables conversation continuity beyond traditional LLM context limitations.
+An intelligent memory system that allows AI applications to retain and retrieve knowledge beyond traditional context window limitations.
 
 ### Features
 
-✨ Persistent Memory Storage
+✅ Persistent Memory Storage
 
-✨ Semantic Search & Retrieval
+✅ Semantic Search
 
-✨ Context-Aware Responses
+✅ Memory Summarization
 
-✨ Memory Summarization
+✅ Context-Aware Responses
 
-✨ Long-Term Knowledge Retention
+✅ Long-Term Knowledge Retention
 
 ### Responsibilities
 
@@ -141,11 +162,11 @@ An AI-powered memory system that enables conversation continuity beyond traditio
 
 ✔ Built memory ingestion APIs
 
-✔ Implemented retrieval mechanisms
+✔ Implemented retrieval pipelines
 
 ✔ Integrated LLM services
 
-✔ Developed context management layer
+✔ Developed context management system
 
 ---
 
@@ -153,27 +174,29 @@ An AI-powered memory system that enables conversation continuity beyond traditio
 
 ### Tech Stack
 
-Spring Boot • Kafka • MySQL • Redis
+```text
+Spring Boot | Kafka | Redis | MySQL | JPA
+```
 
 ### Features
 
-🚀 Distributed Microservices Architecture
+✅ Distributed Microservices
 
-🚀 Event-Driven Communication
+✅ Event-Driven Communication
 
-🚀 Transaction Management
+✅ Transaction Management
 
-🚀 Seat Reservation System
+✅ Seat Reservation Workflows
 
-🚀 Pessimistic Locking
+✅ Pessimistic Locking
 
 ### Responsibilities
 
 ✔ Designed booking workflows
 
-✔ Built Kafka event pipelines
+✔ Implemented event pipelines
 
-✔ Implemented concurrency control
+✔ Built concurrency controls
 
 ✔ Ensured transactional consistency
 
@@ -183,17 +206,23 @@ Spring Boot • Kafka • MySQL • Redis
 
 ### Tech Stack
 
-React • Context API • Local Storage
+```text
+React | Context API | Local Storage
+```
 
 ### Features
 
-✨ Create, Edit & Delete Tasks
+✅ Create Tasks
 
-✨ Task Status Tracking
+✅ Edit Tasks
 
-✨ Local Storage Persistence
+✅ Delete Tasks
 
-✨ Responsive UI Design
+✅ Task Status Tracking
+
+✅ Local Storage Persistence
+
+✅ Responsive UI
 
 ### Responsibilities
 
@@ -201,9 +230,9 @@ React • Context API • Local Storage
 
 ✔ Implemented CRUD Functionality
 
-✔ Managed Application State using Context API
+✔ Managed State using Context API
 
-✔ Developed Responsive User Experience
+✔ Developed Responsive User Interface
 
 ---
 
@@ -211,64 +240,99 @@ React • Context API • Local Storage
 
 ## 🧠 AI With Unlimited Memory
 
-Building next-generation memory architecture that allows AI systems to retain knowledge across unlimited conversations.
+Creating a next-generation memory architecture that enables persistent knowledge retention across unlimited conversations.
 
 ---
 
-## 🖥️ Universal AI Desktop Application
+## 🖥️ Unified AI Desktop Platform
 
-A desktop platform that maintains shared context across multiple AI models and assistants.
+A desktop application capable of maintaining shared context across multiple AI models.
 
 ---
 
 ## ♟️ Chess Engine From Scratch
 
-Current Progress:
-
 ```text
-[██████████░░░░░░░░░░░░░░] 40%
+██████████░░░░░░░░░░░░░░░░ 40%
 
 ✓ Board Representation
 ✓ Move Validation
 ✓ Game State Management
-⏳ AI Engine
+⏳ Chess Engine
 ⏳ Minimax Algorithm
+⏳ Alpha-Beta Pruning
 ⏳ Optimization Layer
 ```
 
 ---
 
-# 🌠 Engineering Philosophy
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anmoldust&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anmoldust&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoldust&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Engineering Focus
 
 ```text
-Build Reliable Systems.
-Design for Scale.
-Automate Repetition.
-Optimize Performance.
-Learn Continuously.
-Ship Impact.
+Backend Engineering      ████████████████████ 100%
+Microservices            ██████████████████░ 95%
+System Design            █████████████████░░ 90%
+Distributed Systems      █████████████████░░ 90%
+AI Engineering           ███████████████░░░░ 85%
+Frontend Development     ████████████░░░░░░░ 65%
 ```
+
+---
+
+# 🌠 Philosophy
+
+> Design for scale.
+>
+> Build for reliability.
+>
+> Optimize for performance.
+>
+> Learn continuously.
+>
+> Create systems that outlive the code.
 
 ---
 
 # 📫 Connect With Me
 
-📧 [anmolchauhan619@gmail.com](mailto:anmolchauhan619@gmail.com)
+<p align="center">
 
-📱 +91 76518 68501
+<a href="mailto:anmolchauhan619@gmail.com">
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💼 LinkedIn: Anmol Singh Chauhan
+<a href="https://github.com/anmoldust">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-🐙 GitHub: github.com/anmoldust
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 Building Intelligent Systems For The Next Decade
+### 🚀 BUILDING INTELLIGENT SYSTEMS FOR THE NEXT DECADE
 
-"Code is temporary. Architecture is legacy."
-
-⭐ If you like my work, feel free to connect and collaborate.
+*"Code is temporary. Architecture is legacy."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:0f172a&height=150&section=footer"/>

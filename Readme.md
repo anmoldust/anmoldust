@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANMOL+SINGH+CHAUHAN;BACKEND+ENGINEER+%7C+MICROSERVICES+ARCHITECT;AI+ENGINEER+%7C+DISTRIBUTED+SYSTEMS;BUILDING+INTELLIGENT+SYSTEMS+FOR+THE+FUTURE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANMOL+SINGH+CHAUHAN;FULLSTACK+ENGINEER+%7C+MICROSERVICES+ARCHITECT;AI+ENGINEER+%7C+DISTRIBUTED+SYSTEMS;BUILDING+INTELLIGENT+SYSTEMS+FOR+THE+FUTURE" />
 
 <br>
 
